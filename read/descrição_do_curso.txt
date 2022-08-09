@@ -1,0 +1,1 @@
+Doctrine ORM:acesse o banco com mapeamento objeto-relacional - attributes
